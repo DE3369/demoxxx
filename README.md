@@ -1,2 +1,0 @@
-# demoxxx
-MSBuilder emo repository
